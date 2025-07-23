@@ -1,7 +1,7 @@
-# Aleeda Maria - Azure Administrator Associate | Technical Support Analyst | IT Service & Operations 
+# Azure Administrator Associate | Technical Support Analyst | IT Service & Operations 
 My Azure Administrator portfolio showcasing hands-on cloud projects, scripts, and certifications.
 
-## About Me
+## 👩‍💻 About Me
 A passionate IT Support Analyst with 5+ years of experience transitioning into Azure Cloud Administration. After achieving my Microsoft Certified: Azure Administrator Associate (AZ-104), I’ve built hands-on projects that simulate real enterprise cloud scenarios. My portfolio showcases practical Azure solutions such as secure network designs, identity management, and high-availability deployments using tools like Azure AD, VNets, NSGs, and more.
 
 ## 🎓 Certifications
